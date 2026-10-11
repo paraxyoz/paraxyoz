@@ -1,6 +1,6 @@
 <!-- ===== БАННЕР ===== -->
 <div align="center">
-  <img src="https://tenor.com/ru/view/tokyo-ghoul-kaneki-ken-gif-17599844276824583181" width="600" alt="Welcome banner"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NDQ4ZzZoNmR6Z284ZHk0eHZ2M3dsbnFicGVpOXc0cTBiY2lsM3h0dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4Vqyoyw5uezzG/giphy.gif" width="600" alt="Welcome banner"/>
 </div>
 
 <br/>
